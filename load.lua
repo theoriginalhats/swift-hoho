@@ -1,0 +1,5 @@
+local notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Notification.lua"))()
+notify.New("!!!!!!!!IMPORTANT!!!!!!!!", 120)
+notify.New("ONCE YOU EXECUTE THIS SCRIPT YOU SHOULD EXECUTE THE REAL HOHO SCRIPT. IT HAS BEEN COPIED TO YOUR CLIP BOARD", 120)
+setclipboard("loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/refs/heads/main/new_load.lua'))()
